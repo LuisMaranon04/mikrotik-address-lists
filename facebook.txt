@@ -1,0 +1,8 @@
+# Facebook dominios
+facebook.com
+www.facebook.com
+m.facebook.com
+apps.facebook.com
+login.facebook.com
+fb.com
+fbcdn.net

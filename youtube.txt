@@ -1,0 +1,7 @@
+# YouTube dominios
+youtube.com
+www.youtube.com
+youtubei.googleapis.com
+ytimg.com
+googlevideo.com
+ggpht.com

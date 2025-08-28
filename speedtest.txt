@@ -1,0 +1,8 @@
+# Speedtest y Fast.com
+speedtest.net
+www.speedtest.net
+fast.com
+speed.cloudflare.com
+speed-test.es
+fiber.google.com
+nperf.com
